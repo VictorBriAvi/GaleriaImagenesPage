@@ -1,0 +1,23 @@
+.boton {
+
+    width: 2rem;
+    height: 2rem;
+    margin: 2px;
+
+}
+
+.blanco {
+    background-color: white;
+}
+
+.negro {
+    background-color: rgb(44, 39, 39);
+}
+
+.botonBlanco {
+    background-color: white;
+}
+
+.botonNegro {
+    background-color: black;
+}
